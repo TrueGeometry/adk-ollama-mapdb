@@ -1,6 +1,8 @@
 # adk-ollama-mapdb
 Support for Google's ADK with Ollama and mapdb for building agents
 
+Read Medium article on this (I Studied Google’s ADK Core library for Agent workflow building, and, here is what I think)[https://azmechatech.medium.com/i-studied-googles-adk-core-library-for-agent-workflow-building-and-here-is-what-i-think-3e6a6f3f7ae9]
+
 ## Using the OllamaBaseLM
 
 *new OllamaBaseLM("gemma3:12b")*
